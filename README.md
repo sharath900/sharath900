@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## 👋 About Me<br><br>Hi, I'm **Sharathkumar**, a B.Tech student specializing in **Artificial Intelligence and Machine Learning**.<br><br>I am passionate about building real-world projects using **Python, Django, Flask, Machine Learning, Deep Learning, and Web Development**. I enjoy learning new technologies and applying them to practical projects that can solve real problems.<br><br>Currently, I am focusing on improving my skills in **AI/ML, Django, REST APIs, Flask, and deployment**. I have worked on projects like a **Cervical Cancer Cell Detection System**, **AI Interview Mirror**, and a **Personal Portfolio Website**.<br><br>My goal is to become a skilled software developer/AI engineer and build useful applications that combine web development with artificial intelligence.
 
-📄 [Resume](https://raw.githubusercontent.com/sharath900/-personal-portfolio-flask/main/static/resume/ATS_Friendly_Technical_Resume.pdf)
+📄 [Resume](https://github.com/sharath900/-personal-portfolio-flask/blob/main/static/resume/ATS_Friendly_Technical_Resume.pdf)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharath kumar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SHARATH_143) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanu13435@gmail.com) 
