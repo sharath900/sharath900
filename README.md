@@ -2,7 +2,7 @@
 
 > Building practical AI solutions that solve real-world problems | B.Tech AI/ML Specialist | Placement Ready
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharath-kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-kumar-632b813a7/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white)](https://sharath900.github.io/-personal-portfolio-flask/)
 ![Profile Views](https://komarev.com/ghpvc/?username=sharath900&color=0066ff)
