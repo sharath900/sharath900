@@ -37,12 +37,13 @@ Currently working on becoming **industry-ready** by:
 - Project defense preparation
 - Google OAuth authentication
 - PostgreSQL integration
+- 🔗 **[Live Demo](https://ai-interview-mirror.onrender.com/)**
 
 **Tech:** Django | PostgreSQL | Gemini AI | Bootstrap 5
 
 ---
 
-### 🏥 [Cervical Cancer Cell Detection](https://github.com/sharath900/cervical-cancer-cell-detection-django)
+### 🏥 [AI Cervical Cancer Cell Detection](https://github.com/sharath900/AI-Cervical-Cancer-Detection-System)
 **Medical Diagnosis Web Application**
 - Deep learning model for cell image classification
 - TensorFlow/Keras integration
@@ -54,17 +55,42 @@ Currently working on becoming **industry-ready** by:
 ---
 
 ### 💬 [StudyMate AI - RAG Chatbot](https://github.com/sharath900/studymate-ai-rag-chatbot)
-**Smart Notes Chatbot with RAG**
+**Smart Notes Chatbot with Retrieval-Augmented Generation**
 - PDF upload and intelligent question answering
 - Retrieval-Augmented Generation (RAG) implementation
-- AI-powered study assistant
+- AI-powered study assistant using Gemini API
+- 🔗 **[Live Demo](http://studymate-ai-rag-chatbot.onrender.com/)**
 
 **Tech:** Django | RAG | Gemini API | PDF Processing
 
 ---
 
-### 🖼️ [Personal Portfolio Website](https://github.com/sharath900/-personal-portfolio-flask)
-**Responsive Portfolio Built with Flask**
+### 📰 [Context Pulse AI](https://github.com/sharath900/context-pulse-ai)
+**Intelligent News Analysis System**
+- Real-time news fetching from NewsAPI
+- AI-powered summarization and sentiment analysis
+- Entity extraction and topic classification
+- Interactive AI dashboard
+- 🔗 **[Live Demo](https://context-pulse-ai.onrender.com/)**
+
+**Tech:** Django | NewsAPI | Gemini API | NLP | Bootstrap
+
+---
+
+### 🖼️ [Portfolio 2 - Modern Portfolio](https://github.com/sharath900/portfolio2)
+**Responsive Portfolio Website**
+- Built with React and Vite for optimal performance
+- Showcases skills, projects, and experience
+- Smooth animations and modern UI design
+- Mobile-first responsive design
+- 🔗 **[Live Demo](https://portfolio2-nu-brown.vercel.app/)**
+
+**Tech:** React | Vite | HTML5 | CSS3 | JavaScript | Vercel
+
+---
+
+### 🏠 [Personal Portfolio Website](https://github.com/sharath900/-personal-portfolio-flask)
+**Full-Stack Portfolio Built with Flask**
 - Showcases skills, projects, and education
 - Clean, modern design with Bootstrap
 - Live demo of full-stack capabilities
@@ -90,6 +116,7 @@ Currently working on becoming **industry-ready** by:
 ### 🌐 Web Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -105,6 +132,7 @@ Currently working on becoming **industry-ready** by:
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -126,9 +154,9 @@ Currently working on becoming **industry-ready** by:
 - [x] Machine Learning algorithms
 - [x] Deep Learning with TensorFlow/Keras
 - [x] SQL & Database design
+- [x] RAG implementations with Gemini API
 - [ ] Advanced System Design
 - [ ] Microservices & Docker
-- [ ] Advanced RAG implementations
 - [ ] Contributing to open-source
 
 ---
@@ -142,9 +170,10 @@ I'm always interested in:
 - 📚 **Learning** from the community
 
 **Let's connect!**
-- 📧 Email: [your-email@example.com](mailto:dhanu13435@gmail.com)
-- 🔗 LinkedIn: [sharath-kumar](https://linkedin.com/in/sharath-kumar)
-- 🌐 Portfolio: [sharath900.github.io](https://sharath900.github.io/-personal-portfolio-flask/)
+- 📧 Email: [dhanu13435@gmail.com](mailto:dhanu13435@gmail.com)
+- 🔗 LinkedIn: [sharath-kumar](https://linkedin.com/in/sharath-kumar-632b813a7/)
+- 🌐 Portfolio: [portfolio2-nu-brown.vercel.app](https://portfolio2-nu-brown.vercel.app/)
+- 🐙 GitHub: [@sharath900](https://github.com/sharath900)
 
 ---
 
