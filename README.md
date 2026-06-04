@@ -142,7 +142,7 @@ I'm always interested in:
 - 📚 **Learning** from the community
 
 **Let's connect!**
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [your-email@example.com](mailto:dhanu13435@gmail.com)
 - 🔗 LinkedIn: [sharath-kumar](https://linkedin.com/in/sharath-kumar)
 - 🌐 Portfolio: [sharath900.github.io](https://sharath900.github.io/-personal-portfolio-flask/)
 
